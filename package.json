@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgarry/pokemon-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgarry/pokemon-assets/issues"
+  },
+  "homepage": "https://github.com/davidgarry/pokemon-assets#readme"
+}
